@@ -1,0 +1,16 @@
+string endereco
+int telefone
+real salario
+int cpf
+real preco
+realtemperatura
+balleana casado
+date nascimento
+balleana vacinado
+real preco_gasolina
+real litros_gasolina
+real preco_pao
+real total_compras
+int idade
+date data_contrato
+string nivel_escolaridade
