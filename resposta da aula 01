@@ -1,0 +1,28 @@
+Encoste o carro em um local plano e sinalize
+Puxe o freio de mão e engate a 1ª marcha
+Afrouxe os parafusos com a chave de roda
+Engate o macaco e erga o carro
+Substitua o pneu furado pelo estepe
+Aperte os parafusos de maneira cruzada
+Abaixe o carro e aperte os parafusos ao máximo
+Guarde o pneu furado e as ferramentas
+
+
+
+
+string endereco
+int telefone
+real salario
+texto cpf
+real preco
+real temperatura
+balleana casado
+date nascimento
+balleana vacinado
+real preco_gasolina
+real litros_gasolina
+real preco_pao
+real total_compras
+int idade
+date data_contrato
+string nivel_escolaridade
